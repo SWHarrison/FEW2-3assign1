@@ -3,12 +3,14 @@ import logo from './logo.svg';
 import './App.css';
 import PageHeader from './PageHeader'
 import PageContent from './PageContent'
+import PageFooter from './PageFooter'
 
 function App() {
   return (
     <div className="App">
       <PageHeader />
       <PageContent />
+      <PageFooter />
     </div>
   );
 }
