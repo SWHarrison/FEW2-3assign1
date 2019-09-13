@@ -3,3 +3,8 @@
   font-family: fantasy;
   color: blue;
 }
+
+.projectsList{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
